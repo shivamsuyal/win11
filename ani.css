@@ -1,0 +1,15 @@
+@-webkit-keyframes moveUp {
+  to {
+    top: -403px;
+  }
+}
+@keyframes moveUp {
+  to {
+    top: -403px;
+  }
+}
+@keyframes moveUp {
+  to {
+    top: 0px;
+  }
+}/*# sourceMappingURL=ani.css.map */
